@@ -1,7 +1,7 @@
 # Unity Client-ServerApp
  
 **Reef Networking** - An open source test project for the Unity Engine that contains ready-made mechanisms for:
-- Connections to a remote connection (TCP).
+- Connections to a remote server (TCP).
 - Sending and receiving messages from the server.
 - Failure handling (loss of connection to the server).
 
